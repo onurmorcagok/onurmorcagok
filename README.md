@@ -1,17 +1,17 @@
 ## Hi there 👋 You just entered the sphere of an enthusiastic and an ardent frontend developer.  
 
-[![GitHub followers](https://img.shields.io/github/followers/mehmeteyupoglu.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/mehmeteyupoglu?tab=followers)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mehmet-eyupoglu/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mehmeteyupoglu2@gmail.com)
-[![medium](https://aleen42.github.io/badges/src/medium.svg)](https://medium.com/@mehmeteyupoglu2)
+[![GitHub followers](https://img.shields.io/github/followers/onurmorcagok.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/onurmorcagok?tab=followers)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/onurmorcagok/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:onurmorcagok@gmail.com)
+[![medium](https://aleen42.github.io/badges/src/medium.svg)](https://medium.com/@onurmorcagok)
 
 ##### Languages I use
 
 ![HTML5](https://img.shields.io/badge/-HTML5-222222?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-222222?style=flat&logo=html5)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-222222?style=flat&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-222222?style=flat&logo=python)
-![TypeScript](https://img.shields.io/badge/-TypeScript-222222?style=flat&logo=typescript)
+![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
+[![Vue.js](https://img.shields.io/badge/-Vuejs-222222?style=flat&logo=vue.js&link=https://github.com/mehmeteyupoglu/)](https://github.com/mehmeteyupoglu/)
 
 ##### Some of the technologies I have worked with
 
