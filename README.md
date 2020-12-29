@@ -11,7 +11,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-222222?style=flat&logo=html5)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-222222?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
-[![Vue.js](https://img.shields.io/badge/-Vuejs-222222?style=flat&logo=vue.js&link=https://github.com/mehmeteyupoglu/)](https://github.com/mehmeteyupoglu/)
+[![Vue.js](https://img.shields.io/badge/-Vuejs-222222?style=flat&logo=vue.js&link=https://github.com/onurmorcagok/)](https://github.com/onurmorcagok/)
 
 ##### Some of the technologies I have worked with
 
@@ -21,10 +21,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
 [![Vue.js](https://img.shields.io/badge/-Vuejs-222222?style=flat&logo=vue.js&link=https://github.com/mehmeteyupoglu/)](https://github.com/mehmeteyupoglu/)
-[![Ember.js](https://img.shields.io/badge/-Emberjs-222222?style=flat&logo=ember.js&link=https://github.com/mehmeteyupoglu/)](https://github.com/mehmeteyupoglu/)
 <br/>
-[![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&link=https://github.com/mehmeteyupoglu/)](https://github.com/mehmeteyupoglu/)
-[![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat&logo=apollo-graphql&link=https://github.com/mehmeteyupoglu/)](https://github.com/mehmeteyupoglu/)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat&logo=sass&logoColor=ffffff)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/mehmeteyupoglu/)](https://github.com/mehmeteyupoglu/)
 [![Vuetify](https://img.shields.io/badge/-Vuetify-02f161?style=flat&logo=vuetify&link=https://github.com/mehmeteyupoglu/)](https://github.com/mehmeteyupoglu/)
@@ -32,7 +29,7 @@
 
 ##### My GitHub Stats (Only Public Contributions )
   
-  ![Github Stats By Mehmet](https://github-readme-stats.vercel.app/api?username=mehmeteyupoglu&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)  
+  ![Github Stats By Onur MORCAGÖK](https://github-readme-stats.vercel.app/api?username=onurmorcagok&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)  
 </br>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=mehmeteyupoglu)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=onurmorcagok)
