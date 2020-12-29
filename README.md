@@ -1,4 +1,4 @@
-## Hi there 👋 You just entered the sphere of an enthusiastic and an ardent frontend developer.  
+## Hello 👋 Welcome to My Portfolio !  
 
 [![GitHub followers](https://img.shields.io/github/followers/onurmorcagok.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/onurmorcagok?tab=followers)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/onurmorcagok/)
@@ -20,11 +20,11 @@
 ![Jira](https://img.shields.io/badge/-Jira-222222?style=flat&logo=jira-software&logoColor=white&logoColor=0052CC)
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
-[![Vue.js](https://img.shields.io/badge/-Vuejs-222222?style=flat&logo=vue.js&link=https://github.com/mehmeteyupoglu/)](https://github.com/mehmeteyupoglu/)
+[![Vue.js](https://img.shields.io/badge/-Vuejs-222222?style=flat&logo=vue.js&link=https://github.com/onurmorcagok/)](https://github.com/onurmorcagok/)
 <br/>
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat&logo=sass&logoColor=ffffff)
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/mehmeteyupoglu/)](https://github.com/mehmeteyupoglu/)
-[![Vuetify](https://img.shields.io/badge/-Vuetify-02f161?style=flat&logo=vuetify&link=https://github.com/mehmeteyupoglu/)](https://github.com/mehmeteyupoglu/)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/onurmorcagok/)](https://github.com/onurmorcagok/)
+[![Vuetify](https://img.shields.io/badge/-Vuetify-02f161?style=flat&logo=vuetify&link=https://github.com/onurmorcagok/)](https://github.com/onurmorcagok/)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=ffffff)
 
 ##### My GitHub Stats (Only Public Contributions )
