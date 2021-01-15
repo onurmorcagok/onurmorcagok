@@ -23,7 +23,6 @@
 <br/>
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/onurmorcagok/)](https://github.com/onurmorcagok/)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat&logo=sass&logoColor=ffffff)
-[![Vuetify](https://img.shields.io/badge/-Vuetify-02f161?style=flat&logo=vuetify&link=https://github.com/onurmorcagok/)](https://github.com/onurmorcagok/)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=ffffff)
 ![Jira](https://img.shields.io/badge/-Jira-222222?style=flat&logo=jira-software&logoColor=white&logoColor=0052CC)
 
