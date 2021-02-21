@@ -8,7 +8,7 @@
 ##### Languages I use
 
 ![HTML5](https://img.shields.io/badge/-HTML5-222222?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-222222?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-222222?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-222222?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
 [![Vue.js](https://img.shields.io/badge/-Vuejs-222222?style=flat&logo=vue.js&link=https://github.com/onurmorcagok/)](https://github.com/onurmorcagok/)
