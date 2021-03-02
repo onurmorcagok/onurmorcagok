@@ -1,6 +1,5 @@
 ## Hello 👋 Welcome to My Portfolio !  
 
-[![GitHub followers](https://img.shields.io/github/followers/onurmorcagok.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/onurmorcagok?tab=followers)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/onurmorcagok/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:onurmorcagok@gmail.com)
 [![medium](https://aleen42.github.io/badges/src/medium.svg)](https://medium.com/@onurmorcagok)
