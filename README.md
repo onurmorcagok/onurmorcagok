@@ -36,7 +36,7 @@ As a frontend developer; I work with HTML, CSS and JavaScript. I am interested i
 
 If you want to contact me, you can reach the addresses below with peace of mind;
 
-[![Mail Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:onurmorcagok@gmail.com)](mailto:onurmorcagok@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:onurmorcagok@gmail.com)](mailto:onurmorcagok@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/OnurMorcagok)
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/onurmorcagok/)
 [![Github Badge](https://img.shields.io/badge/github-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/onurmorcagok)  
