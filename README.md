@@ -28,7 +28,7 @@ As a frontend developer; I work with HTML, CSS and JavaScript. I am interested i
 
 ## Latest Blog Posts
 
-- [React, Vue ve Angular](https://medium.com/@onurmorcagok/react-vue-ve-angular-d0ed05a316f1)
+- [React, Vue and Angular](https://medium.com/@onurmorcagok/react-vue-ve-angular-d0ed05a316f1)
 - [What is ECMAScript (ES6), What's New with ES6](https://medium.com/@onurmorcagok/ecmascript-es6-nedir-es6-ile-gelen-yenilikler-69bd3b67d4c4)
 - [Frontend Development](https://medium.com/@onurmorcagok/frontend-development-9f7a6a51794)
 
