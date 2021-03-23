@@ -1,6 +1,7 @@
-<img align='center' src="https://github-readme-stats.vercel.app/api?username=onurmorcagok&show_icons=true&theme=dark">
-
 # 👋 Hi, Welcome to My Portfolio
+
+## My Stats
+<img align='center' src="https://github-readme-stats.vercel.app/api?username=onurmorcagok&show_icons=true&theme=dark">
 
 ## About Me
 I am Onur MORCAGÖK, Frontend Developer at Akinon. I graduated from Istanbul Kultur University Computer Programming Department in 2019 and I am completing my undergraduate education at Anadolu University, Department of Management Information Systems. During my education, I was not content with the information I learned at school, but I constantly strive to improve myself, learn new information in the field of software, follow up-to-date technologies and support the information I have learned with projects.  
