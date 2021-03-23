@@ -1,6 +1,5 @@
 # 👋 Hi, Welcome to My Portfolio
 
-## My GitHub Stats
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=onurmorcagok&show_icons=true&theme=dark">
 
 ## About Me
