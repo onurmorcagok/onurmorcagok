@@ -5,7 +5,7 @@
 ## About Me
 I am Onur MORCAGÖK, Frontend Developer at Akinon. I graduated from Istanbul Kultur University Computer Programming Department in 2019 and I am completing my undergraduate education at Anadolu University, Department of Management Information Systems. During my education, I was not content with the information I learned at school, but I constantly strive to improve myself, learn new information in the field of software, follow up-to-date technologies and support the information I have learned with projects.  
 
-## Languages and Technologies
+## What do I want to do?
 As a frontend developer; I work with HTML, CSS and JavaScript. I am interested in React.js and Vue.js in order to improve my individual skills and I continue my work in this area individually. I aim to learn Node.js from backend technologies and develop MERN stack projects with it.
   
 ## Languages and Tools
