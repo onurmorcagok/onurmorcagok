@@ -8,7 +8,7 @@ I am Onur MORCAGÖK, Frontend Developer at Akinon. I graduated from Istanbul Kul
 ## Languages and Technologies
 As a frontend developer; I work with HTML, CSS and JavaScript. I am interested in React.js and Vue.js in order to improve my individual skills and I continue my work in this area individually. I aim to learn Node.js from backend technologies and develop MERN stack projects with it.
   
-<h5>Languages and Tools</h5>
+## Languages and Tools
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
