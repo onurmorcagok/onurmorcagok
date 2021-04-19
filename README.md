@@ -25,12 +25,6 @@ As a frontend developer; I work with HTML, CSS and JavaScript. I am interested i
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /> <br><br>
 
-## My Blog Posts
-
-- [React, Vue and Angular](https://medium.com/@onurmorcagok/react-vue-ve-angular-d0ed05a316f1)
-- [What is ECMAScript (ES6), What's New with ES6](https://medium.com/@onurmorcagok/ecmascript-es6-nedir-es6-ile-gelen-yenilikler-69bd3b67d4c4)
-- [Frontend Development](https://medium.com/@onurmorcagok/frontend-development-9f7a6a51794)
-
 ## For Contact
 
 If you want to contact me, you can reach the addresses below with peace of mind;
